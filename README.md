@@ -6,7 +6,7 @@
 
 I build data-driven web applications focused on business logic, relational data, backend architecture, and practical user experience.
 
-## Featured Project
+## Featured Projects
 
 ### PickPlay — Engineering Case Study
 
@@ -15,6 +15,14 @@ A full-stack sports prediction and competition-management platform covering dete
 👉 [View the PickPlay Engineering Case Study](https://github.com/Vladilusion/pickplay-case-study)
 
 The production interface shown in the project captures is currently localized in Spanish; the engineering documentation is presented in English.
+
+### Competition Engine Demo — Runnable Reference Implementation
+
+A public, executable PHP/MySQL application demonstrating deterministic scoring, transactional prediction writes, rankings, scenario simulation, concurrency-aware integrity controls, automated testing, and CI.
+
+👉 [View the runnable Competition Engine Demo](https://github.com/Vladilusion/competition-engine-demo)
+
+This repository complements the PickPlay case study with independently implemented, reviewable source code that can be run locally with Docker.
 
 ## Professional Perspective
 
